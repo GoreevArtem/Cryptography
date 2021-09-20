@@ -1,2 +1,5 @@
-# Cryptography
-Cryptography homework assignments
+# Основы криптографических методов 
+---
+## Потоковые шифры [^1]
+
+[^1]: [потоковые шифры](https://ru.wikipedia.org/wiki/Потоковый_шифр)
