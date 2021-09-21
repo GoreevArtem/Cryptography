@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Cryptography/c++/RC4.h
+iostream
+-
+
+E:/Cryptography/c++/main.cpp
+iostream
+-
+RC4.h
+E:/Cryptography/c++/RC4.h
+
