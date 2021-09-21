@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
-E:/Cryptography/c++/RC4.h
+E:/Cryptography/Cryptography/RC4.cpp
+RC4.h
+E:/Cryptography/Cryptography/RC4.h
+
+E:/Cryptography/Cryptography/RC4.h
 iostream
 -
 
-E:/Cryptography/c++/main.cpp
+E:/Cryptography/Cryptography/main.cpp
 iostream
 -
 RC4.h
-E:/Cryptography/c++/RC4.h
+E:/Cryptography/Cryptography/RC4.h
 

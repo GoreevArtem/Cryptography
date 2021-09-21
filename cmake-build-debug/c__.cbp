@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="E:/Cryptography/c++/cmake-build-debug"/>
+				<Option working_dir="E:/Cryptography/Cryptography/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 all"/>
-					<CompileFile command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="E:/Cryptography/c++/cmake-build-debug"/>
+				<Option working_dir="E:/Cryptography/Cryptography/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
-					<CompileFile command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="c__">
-				<Option output="E:/Cryptography/c++/cmake-build-debug/c__.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="E:/Cryptography/c++/cmake-build-debug"/>
+				<Option output="E:/Cryptography/Cryptography/cmake-build-debug/c__.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Cryptography/Cryptography/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -43,15 +43,15 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 c__"/>
-					<CompileFile command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 c__"/>
+					<CompileFile command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="c__/fast">
-				<Option output="E:/Cryptography/c++/cmake-build-debug/c__.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="E:/Cryptography/c++/cmake-build-debug"/>
+				<Option output="E:/Cryptography/Cryptography/cmake-build-debug/c__.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Cryptography/Cryptography/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -65,33 +65,33 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 c__/fast"/>
-					<CompileFile command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 c__/fast"/>
+					<CompileFile command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="E:/Cryptography/c++/cmake-build-debug"/>
+				<Option working_dir="E:/Cryptography/Cryptography/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f E:\Cryptography\c++\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f E:\Cryptography\Cryptography\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="E:/Cryptography/c++/RC4.cpp">
+		<Unit filename="E:/Cryptography/Cryptography/RC4.cpp">
 			<Option target="c__"/>
 		</Unit>
-		<Unit filename="E:/Cryptography/c++/RC4.h">
+		<Unit filename="E:/Cryptography/Cryptography/RC4.h">
 			<Option target="c__"/>
 		</Unit>
-		<Unit filename="E:/Cryptography/c++/main.cpp">
+		<Unit filename="E:/Cryptography/Cryptography/main.cpp">
 			<Option target="c__"/>
 		</Unit>
-		<Unit filename="E:/Cryptography/c++/CMakeLists.txt">
+		<Unit filename="E:/Cryptography/Cryptography/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
