@@ -25,12 +25,9 @@ string RC4::prga(string in, int len) {
     for (x = 0; x < len; x++) {
         i = (i + 1) % 256;
         j = (j + S[i]) % 256;
-        temp = S[i];
-        S[i] = S[j];
-        S[j] = temp;
+        swap(S[i], S[j]);
         K[x] = in[x] ^ S[(S[i] + S[j]) % 256];
     }
-
     return K;
 }
 
