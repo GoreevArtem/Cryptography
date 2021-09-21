@@ -7,5 +7,6 @@
 :-----|:------|:----
 hello   | world     | x>═Ц╧
 nngy | russia   | ∙+У+
+---
 [^1]: [потоковые шифры](https://ru.wikipedia.org/wiki/Потоковый_шифр)
 [^2]: [RC4](https://en.wikipedia.org/wiki/RC4)
